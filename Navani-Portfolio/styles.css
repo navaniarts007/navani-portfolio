@@ -192,6 +192,7 @@ body {
   }
 
   .controls {
+    position: fixed;
     top: auto;
     bottom: 0;
     flex-direction: row;
